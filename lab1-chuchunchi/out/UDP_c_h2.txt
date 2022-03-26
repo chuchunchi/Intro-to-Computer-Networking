@@ -1,0 +1,17 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.3, UDP port 7777
+Sending 1470 byte datagrams, IPG target: 1121.52 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 34623 connected with 10.0.0.3 port 7777
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec   502 KBytes  4.12 Mbits/sec
+[  3]  1.0- 2.0 sec   379 KBytes  3.10 Mbits/sec
+[  3]  2.0- 3.0 sec   310 KBytes  2.54 Mbits/sec
+[  3]  3.0- 4.0 sec   380 KBytes  3.12 Mbits/sec
+[  3]  4.0- 5.0 sec   378 KBytes  3.09 Mbits/sec
+[  3]  0.0- 5.1 sec  1.90 MBytes  3.15 Mbits/sec
+[  3] Sent 1358 datagrams
+[  3] Server Report:
+[  3]  0.0- 5.0 sec  1.82 MBytes  3.05 Mbits/sec   0.000 ms    0/ 1298 (0%)
+[  3] 0.00-5.00 sec  8 datagrams received out-of-order
